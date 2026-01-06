@@ -2,10 +2,7 @@
 
 ### Olá! Eu sou o Silas Alves dos Santos! ☕ 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-alves-dos-santos-4610a7206/)
-
-[![Silas GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devsilasz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Silas GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devsilasz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-silas/)
 
 
 ## Tecnologias no qual estudo no momento:
